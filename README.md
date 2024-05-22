@@ -1,4 +1,5 @@
 # Suva Ai: Bangladesh's First Student Study Assistant Ai
+![SUVA Ai](https://github.com/Ntf-Sadnan/suva-ai/assets/79263493/d5b46f31-6ecf-4066-8191-4f064b56135e)
 
 ## Overview
 
